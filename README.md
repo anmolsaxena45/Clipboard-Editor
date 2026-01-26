@@ -35,3 +35,6 @@ State Management: Redux Toolkit
 Icons: Heroicons
 
 Notifications: React Toastify
+
+<img width="587" height="803" alt="Home Page" src="https://github.com/user-attachments/assets/42af9029-7f3a-4495-8231-048fcfd18881" />
+
