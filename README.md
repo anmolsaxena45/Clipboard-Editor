@@ -39,6 +39,6 @@ Notifications: React Toastify
 # Demo Screen Shot
 
 <img width="300" height="500" alt="Home Page" src="https://github.com/user-attachments/assets/42af9029-7f3a-4495-8231-048fcfd18881" />
-<img width="1334" height="568" alt="image" src="https://github.com/user-attachments/assets/814366ea-c366-4da3-82f9-8bce35c6bceb" />
+<img width="800" height="400" alt="Pastes" src="https://github.com/user-attachments/assets/814366ea-c366-4da3-82f9-8bce35c6bceb" />
 
 
