@@ -1,3 +1,5 @@
+## A basic Clipboard-Editor (React + Redux)
+
 A modern, intuitive web application built with React, Redux Toolkit, Tailwind CSS, and Heroicons that allows users to create, view, search, copy, share, and delete text snippets (pastes). Designed for productivity and simplicity, this app provides a clean interface with powerful state management.
 
 # Features
@@ -33,3 +35,8 @@ State Management: Redux Toolkit
 Icons: Heroicons
 
 Notifications: React Toastify
+
+# Demo Screen Shot
+
+<img width="300" height="500" alt="Home Page" src="https://github.com/user-attachments/assets/42af9029-7f3a-4495-8231-048fcfd18881" />
+
