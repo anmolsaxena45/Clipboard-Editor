@@ -16,7 +16,7 @@ export const pasteSlice = createSlice({
       const paste = action.payload;
       state.pastes.push(paste);
       localStorage.setItem("pastes", JSON.stringify(state.pastes));
-      toast("Paste Created", {
+      toast.success("Paste Created", {
         position: "top-right", 
         autoClose: 2000, 
         hideProgressBar: true,
