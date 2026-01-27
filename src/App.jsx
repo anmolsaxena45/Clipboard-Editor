@@ -35,7 +35,10 @@ function App() {
           <ViewPaste />
         </div>
       },
-    ]
+    ],
+    {
+      basename: '/Clipboard-Editor',
+    }
   )
 
   return (
