@@ -14,7 +14,7 @@ CRUD Operations
 
 3. Delete: Remove unwanted pastes with a single click.
 
-4. Copy: Instantly copy paste content to your clipboard with toast notifications.
+4. Copy: Instantly copy and paste content to your clipboard with toast notifications.
 
 5. Share: Share paste content directly via WhatsApp.
 
